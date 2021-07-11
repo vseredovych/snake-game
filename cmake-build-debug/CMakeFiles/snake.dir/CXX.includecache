@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vseredov/root/Studying/Dev/snake/SnakeGame.cpp
+SnakeGame.h
+/Users/vseredov/root/Studying/Dev/snake/SnakeGame.h
+
+/Users/vseredov/root/Studying/Dev/snake/SnakeGame.h
+iostream
+-
+ncurses.h
+-
+vector
+-
+chrono
+-
+
