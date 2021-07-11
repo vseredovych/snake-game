@@ -2,10 +2,10 @@
 
 SnakeGame::SnakeGame()
 {
+    snake = new std::vector<Point>();
     SetupTerminal();
     InitializeBoard();
     InitializeGame();
-    snake = new std::vector<Point>();
 }
 
 SnakeGame::~SnakeGame()
