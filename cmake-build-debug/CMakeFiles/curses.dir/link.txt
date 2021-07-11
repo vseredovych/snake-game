@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libcurses.a CMakeFiles/curses.dir/main.cpp.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib libcurses.a
