@@ -75,3 +75,7 @@ crashlytics-build.properties
 fabric.properties
 
 cmake-build-debug
+
+# OSX garbage
+.DS_Store
+
